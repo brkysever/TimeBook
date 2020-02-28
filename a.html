@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Simple Javascript Stopwatch
+    </title>
+    <link href="https://fonts.googleapis.com/css?family=Simonetta|Spartan&display=swap" rel="stylesheet">
+    <link href="a.css" rel="stylesheet">
+    
+  </head>
+  <body>
+<div>
+<h1 class="header">How does it work ?</h1>
+<p class="secondheader">This program calculates how many hours to finish a book.</p>
+<p class="enjoy">I know you can calculate that,shut up calculate.</p>
+</div>
+
+
+<!-- <div>
+  <button class="hide1">How does it work ?</button>
+</div>
+
+
+<p class="bir">Open your book, press start and reading book. Press stop 
+  after finishing the first page of the book.
+</p>
+
+<p class="iki">Write the number of pages and enter stopwatch.</p>
+
+<p class="üç">You can see the result here.</p>
+
+ -->
+
+
+
+
+<div class="stopwatch">
+    <div id="sw-time">00:00:00</div>
+     <input type="button" value="Start" id="sw-go" disabled/>
+     <input type="button" value="Reset" id="sw-rst" disabled/>
+</div>
+
+<div class="tt">
+     <p class="texttt">Enter stopwatch here</p>
+     <input type="text" id="sayi1"> 
+</div>
+
+<div class="yy">
+    <p class="textt">Enter the number of pages of the book</p>
+    <input type="text" id="sayi2">
+</div>
+        
+<div>
+<input type="button" id="btnCarp" class="ee" value="GO!" onclick="Carpma()">
+</div>
+
+<div id="kutuSonuc" class="qq"></div>
+
+
+<script src="multi.js"></script>
+<script src="stopwatch.js"></script>
+  </body>
+</html>

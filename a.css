@@ -1,0 +1,75 @@
+.header {
+    font-family: 'Spartan';
+    text-align: center;
+    font-size: 62px;
+}
+.secondheader {
+    font-family: 'Spartan';
+    text-align: center;
+    font-size: 25px;
+}
+.enjoy {
+    font-family: 'Spartan';
+    margin-left: 1000px;
+    font-size: 10px;
+    margin-top: -20px;
+}
+#sw-time {
+    font-family: 'Spartan';
+    font-size: 50px;
+    margin-top: 75px;
+    text-align: center;
+}
+#sw-go{
+    font-family: 'Spartan';
+    background: none;
+    border-radius: 3px;
+    border-color: black;
+    margin-left: 775px;
+    width: 70px;
+    height: 40px;
+}
+#sw-rst{
+    font-family: 'Spartan';
+    background: none;
+    border-radius: 3px;
+    border-color: black;
+    width: 70px;
+    height: 40px;
+}
+
+.tt{
+    margin-left: 500px;
+}
+.yy{
+    margin-top: -70px;
+    margin-left: 1000px;
+}
+
+.textt{
+    font-family: 'Spartan';
+    font-size: 15px;
+    margin-left: -70px;
+}
+
+.texttt{
+    font-family: 'Spartan';
+    font-size: 15px;
+}
+
+.ee{
+    font-family: 'Spartan';
+    background: none;
+    border-radius: 3px;
+    border-color: black;
+    margin-left: 800px;
+    width: 80px;
+    height: 40px;
+}
+
+.qq{
+    margin-left: 810px;
+    margin-top: 50px;
+    font-family: 'Spartan';
+    font-size: 25px;
+}
