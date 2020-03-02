@@ -3,24 +3,28 @@
     text-align: center;
     font-size: 62px;
 }
+
 .secondheader {
     font-family: 'Spartan';
     text-align: center;
     font-size: 25px;
 }
+
 .enjoy {
     font-family: 'Spartan';
     margin-left: 1000px;
     font-size: 10px;
     margin-top: -20px;
 }
+
 #sw-time {
     font-family: 'Spartan';
     font-size: 50px;
     margin-top: 75px;
     text-align: center;
 }
-#sw-go{
+
+#sw-go {
     font-family: 'Spartan';
     background: none;
     border-radius: 3px;
@@ -29,7 +33,8 @@
     width: 70px;
     height: 40px;
 }
-#sw-rst{
+
+#sw-rst {
     font-family: 'Spartan';
     background: none;
     border-radius: 3px;
@@ -38,26 +43,27 @@
     height: 40px;
 }
 
-.tt{
+.tt {
     margin-left: 500px;
 }
-.yy{
+
+.yy {
     margin-top: -70px;
     margin-left: 1000px;
 }
 
-.textt{
+.textt {
     font-family: 'Spartan';
     font-size: 15px;
     margin-left: -70px;
 }
 
-.texttt{
+.texttt {
     font-family: 'Spartan';
     font-size: 15px;
 }
 
-.ee{
+.ee {
     font-family: 'Spartan';
     background: none;
     border-radius: 3px;
@@ -67,7 +73,7 @@
     height: 40px;
 }
 
-.qq{
+.qq {
     margin-left: 810px;
     margin-top: 50px;
     font-family: 'Spartan';
